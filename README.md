@@ -1,5 +1,6 @@
-Vous trouverez mon tout premier rapport réalisé grâce à PowerBI. 🚀
+Ce projet est mon premier rapport réalisé grâce à PowerBI.
 Il s'agit d'une analyse de données issues de Kaggle présentant les ventes de produits Adidas aux USA sur la période 2020-2021.
+
 Parmi les insights que j’ai pu découvrir : 
 - Un CA généré par les produits étudiés en forte hausse en 2021 (96M$) par rapport à 2020 (24M$), dans un contexte de de pandémie mondiale qui n’a pas épargné Adidas (-22% de CA global en 2020 par rapport à 2019)
 - Une grande disparité régionale en termes de canaux de vente, dont l’explication est probablement à chercher dans la diversité de densité de distributeurs Adidas, de réalités économiques et géographiques, de stratégie et de marketing de la marque…
